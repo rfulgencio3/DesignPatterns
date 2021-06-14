@@ -1,0 +1,13 @@
+D:\repository\DesignPattern\FactoryMethod\obj\Debug\netcoreapp3.1\01 - FactoryMethod.csprojAssemblyReference.cache
+D:\repository\DesignPattern\FactoryMethod\obj\Debug\netcoreapp3.1\01 - FactoryMethod.AssemblyInfoInputs.cache
+D:\repository\DesignPattern\FactoryMethod\obj\Debug\netcoreapp3.1\01 - FactoryMethod.AssemblyInfo.cs
+D:\repository\DesignPattern\FactoryMethod\obj\Debug\netcoreapp3.1\01 - FactoryMethod.csproj.CoreCompileInputs.cache
+D:\repository\DesignPattern\FactoryMethod\bin\Debug\netcoreapp3.1\01 - FactoryMethod.exe
+D:\repository\DesignPattern\FactoryMethod\bin\Debug\netcoreapp3.1\01 - FactoryMethod.deps.json
+D:\repository\DesignPattern\FactoryMethod\bin\Debug\netcoreapp3.1\01 - FactoryMethod.runtimeconfig.json
+D:\repository\DesignPattern\FactoryMethod\bin\Debug\netcoreapp3.1\01 - FactoryMethod.runtimeconfig.dev.json
+D:\repository\DesignPattern\FactoryMethod\bin\Debug\netcoreapp3.1\01 - FactoryMethod.dll
+D:\repository\DesignPattern\FactoryMethod\bin\Debug\netcoreapp3.1\01 - FactoryMethod.pdb
+D:\repository\DesignPattern\FactoryMethod\obj\Debug\netcoreapp3.1\01 - FactoryMethod.dll
+D:\repository\DesignPattern\FactoryMethod\obj\Debug\netcoreapp3.1\01 - FactoryMethod.pdb
+D:\repository\DesignPattern\FactoryMethod\obj\Debug\netcoreapp3.1\01 - FactoryMethod.genruntimeconfig.cache

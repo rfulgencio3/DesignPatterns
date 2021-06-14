@@ -1,0 +1,13 @@
+D:\repository\DesignPattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.exe
+D:\repository\DesignPattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.deps.json
+D:\repository\DesignPattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.json
+D:\repository\DesignPattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.dev.json
+D:\repository\DesignPattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.dll
+D:\repository\DesignPattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.pdb
+D:\repository\DesignPattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.csprojAssemblyReference.cache
+D:\repository\DesignPattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfoInputs.cache
+D:\repository\DesignPattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfo.cs
+D:\repository\DesignPattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.csproj.CoreCompileInputs.cache
+D:\repository\DesignPattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.dll
+D:\repository\DesignPattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.pdb
+D:\repository\DesignPattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.genruntimeconfig.cache
